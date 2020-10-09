@@ -1,0 +1,17 @@
+http://localhost:1234/student/1001
+JSON
+1001 Ram 2222 ram@gmail.com, 
+10 Java 3M 75 —> Instructor Shyam 
+11 NodeJS 3M 65 —> Instructor Mohan
+
+Search By RollNo 
+
+
+Student
+Rollno, Name, Phone, Email, CID[10,20,30]
+
+Courses
+CID, Name, Duration, Marks
+
+Teachers
+TID, Name, CID [10,20,30]
